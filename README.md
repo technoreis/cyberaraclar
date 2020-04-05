@@ -2,6 +2,9 @@
 ##nickname: technoreis
 Tamamen Linux İçin Tasarlanmıştır.
 
+kurulum videosu :https://youtu.be/gx8bCWkGn_4
+
+
 bilgisayar olanında tamamen sağlıklı çalışabilmesi için Home/kullanıcıadı/ bölmesine indirin 
 ve burada kullanmaya özen gösterin indirdiğiniz araçlar klasör halinde orada bulunacaktır.
 programı kullandığınız için teşekkür ederim.
