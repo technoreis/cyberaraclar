@@ -2,8 +2,8 @@
 ##nickname: technoreis
 Tamamen Linux İçin Tasarlanmıştır.
 
-kurulum videosu :https://youtu.be/gx8bCWkGn_4
-
+pc kurulum videosu : https://youtu.be/gx8bCWkGn_4
+mobil kurulum videosu : https://www.youtube.com/watch?v=VvT5TJNoIh0
 
 bilgisayar olanında tamamen sağlıklı çalışabilmesi için Home/kullanıcıadı/ bölmesine indirin 
 ve burada kullanmaya özen gösterin indirdiğiniz araçlar klasör halinde orada bulunacaktır.
